@@ -1,0 +1,21 @@
+/*
+ * Assignment 02
+ * CSS FILE
+ */
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: greenyellow;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: center;
+  color: #023047;
+}
+
+
